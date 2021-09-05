@@ -3,7 +3,7 @@
 		<img src="logo.png" width="480" height="150" alt="John's Portfolio">
 	</a>
 </p>
-I am a passionate Computing Science student working towards my Bachelors Specialization at the University of Alberta. I have recently completed my intership at Haemonetics Corporation in Edmonton, where I put my expertise to use on their NexLynk Donor Management System. Some of my interests include cats, cars, music, and of course, anything technology-related :)
+I am a passionate Computing Science student working towards my Bachelors Specialization at the University of Alberta. I have recently completed my internship at Haemonetics Corporation in Edmonton, where I put my expertise to use on their NexLynk Donor Management System. Some of my interests include cats, cars, music, and of course, anything technology-related :)
 <br><br>
 <p align="center">
 	<a title="Github Stats">
