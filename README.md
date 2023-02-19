@@ -8,9 +8,15 @@
 	</p>
 	<br/>
 	<a title="Github Stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerboa88&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&title_color=317b71&icon_color=317b71" />
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jerboa88&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&title_color=317b71&icon_color=317b71&bg_color=00000000&text_color=c9d1d9" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerboa88&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&line_height=24&hide_border=true&title_color=317b71&icon_color=317b71&bg_color=00000000" />
+		</picture>
 	</a>
 	<a title="Most Used Languages">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerboa88&layout=compact&langs_count=6&hide_border=true&title_color=317b71&icon_color=317b71" />
+		<picture>
+			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jerboa88&layout=compact&langs_count=6&hide_border=true&title_color=317b71&icon_color=317b71&bg_color=00000000&text_color=c9d1d9" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerboa88&layout=compact&langs_count=6&hide_border=true&title_color=317b71&icon_color=317b71&bg_color=00000000" />
+		</picture>
 	</a>
 </div>
