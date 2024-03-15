@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+	width="127mm"
+	height="39.6875mm"
+	viewBox="0 0 127 39.6875"
+	version="1.1"
+	id="svg5"
+	inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:svg="http://www.w3.org/2000/svg">
+	<sodipodi:namedview
+		id="namedview9"
+		pagecolor="#505050"
+		bordercolor="#ffffff"
+		borderopacity="1"
+		inkscape:pageshadow="0"
+		inkscape:pageopacity="0"
+		inkscape:pagecheckerboard="1"
+		inkscape:document-units="mm"
+		showgrid="false"
+		inkscape:snap-bbox="true"
+		inkscape:bbox-paths="true"
+		inkscape:bbox-nodes="true"
+		inkscape:snap-bbox-edge-midpoints="false"
+		inkscape:zoom="2.44375"
+		inkscape:cx="240"
+		inkscape:cy="11.253197"
+		inkscape:window-width="2192"
+		inkscape:window-height="1177"
+		inkscape:window-x="0"
+		inkscape:window-y="0"
+		inkscape:window-maximized="1"
+		inkscape:current-layer="layer1" />
+	<defs
+		id="defs2" />
+	<g
+		id="layer1"
+		transform="translate(-15.194945,-51.597225)">
+		<text
+			xml:space="preserve"
+			style="font-style:normal;font-weight:normal;font-size:15.1694px;line-height:1.25;font-family:sans-serif;display:inline;fill:#fb7185;fill-opacity:1;stroke:none;stroke-width:0.264583"
+			x="78.67218"
+			y="71.593178"
+			id="text1398"
+			inkscape:label="title_front"><tspan
+			id="tspan1396"
+			style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15.1694px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';text-align:center;text-anchor:middle;fill:#fb7185;fill-opacity:1;stroke-width:0.264583"
+			x="78.67218"
+			y="71.593178">John Goodliff</tspan></text>
+		<text
+			xml:space="preserve"
+			style="font-style:normal;font-weight:normal;font-size:15.1694px;line-height:1.25;font-family:sans-serif;display:inline;fill:#fb7185;fill-opacity:1;stroke:none;stroke-width:0.264583"
+			x="78.67218"
+			y="71.593178"
+			id="text1398-3"
+			inkscape:label="title_back"><tspan
+			id="tspan1396-6"
+			style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15.1694px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';text-align:center;text-anchor:middle;fill:#fb7185;fill-opacity:1;stroke-width:0.264583"
+			x="78.67218"
+			y="71.593178">johng.io</tspan></text>
+		<text
+			xml:space="preserve"
+			style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Open Sans SemiCondensed';-inkscape-font-specification:'Open Sans SemiCondensed, ';display:inline;fill:#fb7185;fill-opacity:1;stroke:none;stroke-width:0.264583"
+			x="42.118702"
+			y="86.327682"
+			id="text9196"
+			inkscape:label="tagline"><tspan
+			id="tspan9194"
+			style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Open Sans SemiCondensed';-inkscape-font-specification:'Open Sans SemiCondensed, ';fill:#fb7185;fill-opacity:1;stroke-width:0.264583"
+			x="42.118702"
+			y="86.327682">Software Developer &amp; Cat Whisperer</tspan></text>
+	</g>
+</svg>
