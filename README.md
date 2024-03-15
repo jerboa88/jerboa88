@@ -5,7 +5,7 @@
 		<source media="(prefers-reduced-motion)" srcset="logo-static.svg" />
 		<img class="projectLogo" src="logo-animated.svg" alt="Project logo" title="Project logo" width="480" height="150">
 	</a>
-	<br><br><br>
+	<br><br>
 	<p class="projectDesc">
 I am a recent graduate with a Bachelors Specialization in Computing Science from the University of Alberta. During my time at the U of A, I had the opportunity to share my expertise with Haemonetics Corporation in Edmonton, where I was involved in end-to-end development of their NexLynk Donor Management System.
 
