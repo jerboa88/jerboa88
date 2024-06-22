@@ -17,13 +17,13 @@ Some of my extracurricular interests include cats, cars, and music!
 	<a title="Github Stats">
 		<picture>
 			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.johng.io/api?username=jerboa88&custom_title=Github%20Stats&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0000&text_color=000&title_color=0F766E&icon_color=0F766E" />
-			<img align="center" src="https://github-readme-stats.johng.io/api?username=jerboa88&custom_title=Github%20Stats&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0000&text_color=FFF&title_color=FB7185&icon_color=FB7185" />
+			<img align="center" src="https://github-readme-stats.johng.io/api?username=jerboa88&custom_title=Github%20Stats&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0000&text_color=FFF&title_color=2bd4be&icon_color=2bd4be" />
 		</picture>
 	</a>
 	<a title="Most Used Languages">
 		<picture>
 			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.johng.io/api/top-langs?username=jerboa88&layout=compact&langs_count=8&hide_border=true&bg_color=0000&text_color=000&title_color=0F766E&icon_color=0F766E" />
-			<img align="center" src="https://github-readme-stats.johng.io/api/top-langs?username=jerboa88&layout=compact&langs_count=8&hide_border=true&bg_color=0000&text_color=FFF&title_color=FB7185&icon_color=FB7185" />
+			<img align="center" src="https://github-readme-stats.johng.io/api/top-langs?username=jerboa88&layout=compact&langs_count=8&hide_border=true&bg_color=0000&text_color=FFF&title_color=2bd4be&icon_color=2bd4be" />
 		</picture>
 	</a>
 </div>
