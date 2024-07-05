@@ -6,13 +6,17 @@
 		<img class="projectLogo" src="logo-animated.svg" alt="Project logo" title="Project logo" width="480" height="150">
 	</a>
 	<br><br>
-	<p class="projectDesc">
-I am a recent graduate from the University of Alberta with a Bachelors Specialization in Computing Science. During my time at the U of A, I had the opportunity to share my expertise with Haemonetics Corporation in Edmonton, where I was involved in end-to-end development of their NexLynk Donor Management System.
-
-Having a natural interest in science has allowed me to become familiar with a wide variety of tech related subjects including programming, design, and audio production. I have experience with frontend web technologies, backend development, cloud computing, as well as low-level programming like Arduino and MIPS assembly.
-
-Some of my extracurricular interests include cats, cars, and music!
-	</p>
+	<div class="projectDesc" align="left">
+		<p>
+			I am a recent graduate from the University of Alberta with a Bachelors Specialization in Computing Science. During my time at the U of A, I had the opportunity to share my expertise with Haemonetics Corporation in Edmonton, where I was involved in end-to-end development of their NexLynk Donor Management System.
+		</p>
+		<p>
+			Having a natural interest in science has allowed me to become familiar with a wide variety of tech related subjects including programming, design, and audio production. I have experience with frontend web technologies, backend development, cloud computing, as well as low-level programming like Arduino and MIPS assembly.
+		</p>
+		<p>
+			Some of my extracurricular interests include cats, cars, and music!
+		</p>
+	</div>
 	<br/>
 	<a title="Github Stats">
 		<picture>
