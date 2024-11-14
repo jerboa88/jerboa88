@@ -33,7 +33,7 @@
 </div>
 
 ## Languages
-`Bash` `C/C++` `CSS` `Datalog` `Electron` `HTML` `Java` `JavaScript/TypeScript` `Kotlin` `Liquid Template Language` `Lisp` `Lua` `Markdown` `MIPS Assembly` `Nix` `Python` `R` `SASS/SCSS` `SQL` `SVG` `VBA` `Webpack`
+`Bash` `C/C++` `CSS` `Datalog` `HTML` `Java` `JavaScript/TypeScript` `Kotlin` `Liquid Template Language` `Lisp` `Lua` `MIPS Assembly` `Nix` `Python` `R` `SASS/SCSS` `SQL` `VBA` 
 
 ## Technologies
-`CUDA` `Django` `Docker` `FastAPI` `GatsbyJS` `Firebase` `Git` `JavaServer Pages (JSP)` `Jekyll` `JUnit` `Kubernetes` `Next.js` `Node.js` `NumPy` `Oracle DB` `PostgreSQL` `React.js` `Regular Expressions` `Spring Framework` `SQLite` `Tailwind CSS` `Vue.js`
+`CUDA` `Django` `Docker` `Electron` `FastAPI` `GatsbyJS` `Firebase` `Git` `JavaServer Pages (JSP)` `Jekyll` `JUnit` `Kubernetes` `Next.js` `Node.js` `NumPy` `Oracle DB` `PostgreSQL` `React.js` `Regular Expressions` `Spring Framework` `SQLite` `Tailwind CSS` `Vue.js` `Webpack`
