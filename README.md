@@ -32,8 +32,48 @@
 	</a>
 </div>
 
-## Languages
-`Bash` `C/C++` `CSS` `Datalog` `HTML` `Java` `JavaScript/TypeScript` `Kotlin` `Liquid Template Language` `Lisp` `Lua` `MIPS Assembly` `Nix` `Python` `R` `SASS/SCSS` `SQL` `VBA` 
+### Languages
+<kbd>Bash</kbd>
+<kbd>C/C++</kbd>
+<kbd>CSS</kbd>
+<kbd>Datalog</kbd>
+<kbd>HTML</kbd>
+<kbd>Java</kbd>
+<kbd>JavaScript/TypeScript</kbd>
+<kbd>Kotlin</kbd>
+<kbd>Liquid Template Language</kbd>
+<kbd>Lisp</kbd>
+<kbd>Lua</kbd>
+<kbd>MIPS Assembly</kbd>
+<kbd>Nix</kbd>
+<kbd>Python</kbd>
+<kbd>R</kbd>
+<kbd>SASS/SCSS</kbd>
+<kbd>SQL</kbd>
+<kbd>VBA</kbd>
 
-## Technologies
-`CUDA` `Django` `Docker` `Electron` `FastAPI` `GatsbyJS` `Firebase` `Git` `JavaServer Pages (JSP)` `Jekyll` `JUnit` `Kubernetes` `Next.js` `Node.js` `NumPy` `Oracle DB` `PostgreSQL` `React.js` `Regular Expressions` `Spring Framework` `SQLite` `Tailwind CSS` `Vue.js` `Webpack`
+### Technologies
+<kbd>CUDA</kbd>
+<kbd>Django</kbd>
+<kbd>Docker</kbd>
+<kbd>Electron</kbd>
+<kbd>FastAPI</kbd>
+<kbd>GatsbyJS</kbd>
+<kbd>Firebase</kbd>
+<kbd>Git</kbd>
+<kbd>JavaServer Pages (JSP)</kbd>
+<kbd>Jekyll</kbd>
+<kbd>JUnit</kbd>
+<kbd>Kubernetes</kbd>
+<kbd>Next.js</kbd>
+<kbd>Node.js</kbd>
+<kbd>NumPy</kbd>
+<kbd>Oracle DB</kbd>
+<kbd>PostgreSQL</kbd>
+<kbd>React.js</kbd>
+<kbd>Regular Expressions</kbd>
+<kbd>Spring Framework</kbd>
+<kbd>SQLite</kbd>
+<kbd>Tailwind CSS</kbd>
+<kbd>Vue.js</kbd>
+<kbd>Webpack</kbd>
