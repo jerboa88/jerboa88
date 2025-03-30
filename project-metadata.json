@@ -1,0 +1,10 @@
+{
+	"$schema": "https://johng.io/schema/project-metadata.json",
+	"name": "GitHub Profile README",
+	"background": "I am a recent graduate from the University of Alberta with a Bachelors Specialization in Computing Science. During my time at the U of A, I had the opportunity to share my expertise with Haemonetics Corporation in Edmonton, where I was involved in end-to-end development of their NexLynk Donor Management System.\n\nHaving a natural interest in science has allowed me to become familiar with a wide variety of tech related subjects including programming, design, and audio production. I have experience with frontend web technologies, backend development, cloud computing, as well as low-level programming like Arduino and MIPS assembly.\n\nSome of my extracurricular interests include cats, cars, and music!",
+	"category": "Document",
+	"logoPath": "logo-animated.svg",
+	"languages": [
+		"Markdown"
+	]
+}
