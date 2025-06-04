@@ -11,7 +11,7 @@
 			I am a recent graduate from the University of Alberta with a Bachelors Specialization in Computing Science. During my time at the U of A, I had the opportunity to share my expertise with Haemonetics Corporation in Edmonton, where I was involved in end-to-end development of their NexLynk Donor Management System.
 		<p/>
 		<p>
-			Having a natural interest in technology has allowed me to gain experience with many different aspects of software development, like cloud computing, frontend web design, and low-level programming with Arduino and MIPS assembly. Although I am a versatile full-stack developer, I have a particular interest in building performant, privacy-focused, and accessible client side web applications using modern web technologies. If you think I might be a good fit for your team, feel free to <a href="https://johng.io/contact" title="Contact me">reach out</a>.
+			Having a natural interest in technology has allowed me to gain experience with many different aspects of software development, like cloud computing, web design, and low-level programming with Arduino and MIPS assembly. Although I am a versatile full-stack developer, I have a particular interest in building performant, privacy-focused, and accessible client side web applications using modern web technologies. If you think I might be a good fit for your team, feel free to <a href="https://johng.io/contact" title="Contact me">reach out</a>.
 		<p/>
 		<p>
 			Some of my extracurricular interests include cycling, listening to music, petting small animals, and contributing to open-source software. If you're interested, you can find some of my work below :)
