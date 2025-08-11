@@ -32,7 +32,7 @@
 	</a>
 </div>
 
-### Languages
+### 💬 Languages
 <kbd>Bash</kbd>
 <kbd>C/C++</kbd>
 <kbd>CSS</kbd>
@@ -52,7 +52,7 @@
 <kbd>SQL</kbd>
 <kbd>VBA</kbd>
 
-### Technologies
+### 🛠️ Technologies
 <kbd>CUDA</kbd>
 <kbd>Django</kbd>
 <kbd>Docker</kbd>
